@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "520934922239",
+    "firebase_url": "https://burakurusapp.firebaseio.com",
+    "project_id": "burakurusapp",
+    "storage_bucket": "burakurusapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520934922239:android:db407818a0079ec3",
+        "android_client_info": {
+          "package_name": "mobile.netmera.com.burakurus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520934922239-hk1vbjrm0ldsupqoedc8kdbqfscv9kc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg-fDWoxXOcmIbRTOjNkVP9-RITJsRNVs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
